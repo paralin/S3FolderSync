@@ -1,0 +1,12 @@
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\S3Sync.exe.config
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\S3Sync.exe
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\S3Sync.pdb
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\AWSSDK.dll
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\log4net.dll
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\protobuf-net.dll
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\AWSSDK.xml
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\log4net.xml
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\protobuf-net.pdb
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\bin\Debug\protobuf-net.xml
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\obj\Debug\S3Sync.exe
+c:\users\christian\documents\visual studio 2012\Projects\S3Sync\S3Sync\obj\Debug\S3Sync.pdb

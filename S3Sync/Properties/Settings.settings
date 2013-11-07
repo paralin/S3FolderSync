@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="S3Sync.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BucketName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">omunionline</Value>
+    </Setting>
+    <Setting Name="FolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GameDistro</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
